@@ -6,4 +6,4 @@
 
 _Application is based on React frameWork_
 
-`link to Website: https://minigames-92e90.web.app`
+`link to Website:` https://minigames-92e90.web.app
